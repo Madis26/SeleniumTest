@@ -10,6 +10,6 @@ Test configuration location is *src\main\resources\application.properties*
 
 Run tests
 ------------------
-**In order to run the project simple execute**
-`./gradlew test`
+**In order to run the project simple execute**  
+`./gradlew test`  
 This will execution the browser and get the results.
