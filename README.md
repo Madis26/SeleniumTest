@@ -2,7 +2,7 @@ Test Automation
 ==================
 Documentation
 ------------------
-Acceptance criterias and test report are located *\documentation* folder
+Acceptance criteria and test report are located *\documentation* folder
 
 Configuration
 ------------------
@@ -12,4 +12,4 @@ Run tests
 ------------------
 **In order to run the project simple execute**  
 `./gradlew test`  
-This will execution the browser and get the results.
+This will execute the browser and get the results.
