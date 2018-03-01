@@ -3,7 +3,7 @@
 |1.|User can successfully login | User can successfully login | User can successfully login | **PASS**
 |2.|User can successfully log out |	User can successfully log out |	User can successfully log out | **PASS**
 |3.|User can’t login using wrong username |	User can’t login using wrong username | User can’t login using wrong username | **PASS**
-|4.|User can’t login using wrong password |	User can’t login using wrong password User can’t login using wrong password	| **PASS**
+|4.|User can’t login using wrong password |	User can’t login using wrong password | User can’t login using wrong password	| **PASS**
 |5.|User can’t change password to whitespace | User can change password to whitespace | User can’t change password to whitespace |	**FAIL**
 |6.|New user forced to change password | New user forced to change password | New user forced to change password | **PASS**
 |7.|New user can’t change password same as old password | New user can change password same as old password | New user can’t change password same as old password | **FAIL**
